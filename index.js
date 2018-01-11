@@ -31,3 +31,17 @@ function johnLennonFacts(arrFacts){
   return newArr;
 }
 
+
+function iLoveTheBeatles(number){
+  
+  var em = [];
+  
+  do{
+    
+  }while();
+  
+  
+}
+
+
+
