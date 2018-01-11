@@ -35,14 +35,14 @@ function johnLennonFacts(arrFacts){
 function iLoveTheBeatles(number){
   
   count = 0;
-  var em = [];
+  var ermty = [];
   
   do{
     em.push('I love the Beatles!');
     count += 1;
   }while(count < 15);
   
-  return em;
+  return ermty;
   
 }
 
