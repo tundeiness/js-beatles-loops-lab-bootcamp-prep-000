@@ -40,7 +40,7 @@ function iLoveTheBeatles(number){
   do{
     em.push('I love the Beatles!');
     count += 1;
-  }while(count < 16);
+  }while(count <= 15);
   
   return em;
   
