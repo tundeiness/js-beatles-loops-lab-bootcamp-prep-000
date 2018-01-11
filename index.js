@@ -20,10 +20,11 @@ const arrFacts = ["He was the last Beatle to learn to drive",
 function johnLennonFacts(arrFacts){
   
   var count = 0;
+  var newArr = [];
   
         while(count < arrFacts.length){
           
-          arrFacts.push(arrFacts[count] +'!!!');
+          newArr.push(arrFacts[count] +'!!!');
         }
   count++;
   return arrFacts;
