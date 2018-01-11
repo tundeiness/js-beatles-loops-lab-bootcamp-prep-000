@@ -34,7 +34,7 @@ function johnLennonFacts(arrFacts){
 
 function iLoveTheBeatles(number){
   
-  number = 0;
+  //number = 0;
   var ermty = [];
   
   do{
